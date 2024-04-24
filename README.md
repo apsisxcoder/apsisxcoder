@@ -15,9 +15,7 @@ I've been developing JavaScript based applications for more than 5 years. Recent
 ### Skills
 
 
-<p align="left">
-[![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,vite,vue,bootstrap,firebase,sqlite,mysql,cs,dotnet,electron)](https://github.com/apsisx)<br/>
-</p>
+[![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,vite,vue,bootstrap,firebase,sqlite,mysql,cs,dotnet,electron)](https://github.com/apsisx)
 
 
 ### Socials
